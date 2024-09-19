@@ -1,0 +1,17 @@
+<svg width="200" height="190" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="" height="100%" fill="#252525" />
+
+  <!-- Headphone outline -->
+  <path d="M80,120 L80,160 Q80,180 100,180 Q120,180 120,160 L120,120 Q120,100 100,100 Q80,100 80,120" fill="none" stroke="#fff" stroke-width="5"/>
+
+  <!-- Left ear -->
+  <path d="M60,120 L60,160 Q60,180 80,180 Q100,180 100,160 L100,120" fill="none" stroke="#fff" stroke-width="5"/>
+
+  <!-- Right ear -->
+  <path d="M120,120 L120,160 Q120,180 140,180 Q160,180 160,160 L160,120" fill="none" stroke="#fff" stroke-width="5"/>
+  
+
+  <!-- TuneWave text -->
+  <text x="15" y="70" font-family="arial" font-size="39" fill="#FFA500">TuneFlow</text>
+</svg>
